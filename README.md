@@ -38,7 +38,7 @@ This framework is designed with scalaibity and reusabilty in mind .
 
 -Ensure TestNg plugin installed if 1st time in any inteligence ide like Eclipse we're using 
 
--Run either using Testngtest or testng suite if alreday convered to xml file  else it can be directly execued using maven command like <mvn clean test>/<mvn lcean install>
+-Run either using Testngtest or testng suite if alreday convered to xml file  else it can be directly execued using maven command like mvn clean test or mvn lcean install
 
 **How to seee the Test Status**
 
@@ -46,7 +46,7 @@ This framework is designed with scalaibity and reusabilty in mind .
 
 -Opeining emailable report.html insde default TestOut folder
 
--In case of failed testcsript , can be seen inside run time folder created i.e. Screenshot at root lavel of project
+-In case of failed testcsript , It can be seen inside run time folder created i.e. Screenshot at root lavel of project
 
 **Future work as a part of enhancement**
 
