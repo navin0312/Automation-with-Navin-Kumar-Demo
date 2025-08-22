@@ -1,6 +1,7 @@
  **Automation Testing Framework**
 
 This is a demo automation testing framwwork desnged to automate vaid login functionality of a 3rd part application .
+
 This framework is designed with scalaibity and reusabilty in mind .
 
 **Tech Stack**
