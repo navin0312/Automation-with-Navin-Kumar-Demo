@@ -7,8 +7,11 @@ This framework is designed with scalaibity and reusabilty in mind .
 **Tech Stack**
 
 -Java 
+
 -Selenium Webdriver 
+
 -Maven
+
 -Hybrid framework like TDD,DDT,KDT,POM
 
 **Features** 
